@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 
+
+👋 Hi, I’m @lixiangwuxian.
+
+👀 I’m interested in software and web developement, hardware DIY.
+ 
+🌱 I’m currently learning Rust, Python, and Go.
+
+📫 How to reach me:
+
+  - Email: lixiangwuxian@outlook.com
+
+  - Discord: @Livable4359#9528
 
 <!--
 **lixiangwuxian/lixiangwuxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
