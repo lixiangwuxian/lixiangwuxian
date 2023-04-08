@@ -4,7 +4,7 @@
 
 👀 I’m interested in software and web developement, hardware DIY.
  
-🌱 I’m currently learning Rust, Python, and Go.
+🌱 I’m currently learning Java, Rust, and Go.
 
 📫 How to reach me:
 
