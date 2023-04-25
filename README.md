@@ -6,6 +6,8 @@
  
 🌱 I’m currently learning Java, Rust, and Go.
 
+📖 My Blog: [lixiangwuxian的备忘录](www.lxtend.com)
+
 📫 How to reach me:
 
   - Email: lixiangwuxian@outlook.com
