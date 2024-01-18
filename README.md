@@ -39,3 +39,4 @@ XBoRClBwOCdEAP9VnzpKvD1jsP9KnSgp0Y1OGYM7AE8dVhn7Vf39bzhvAA==
 =lMh/
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+[Download the public key from OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DF065DCA344AFF38F6323425E6E4E45FEEF1F14C)
