@@ -1,6 +1,6 @@
 ### Hi there 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiangwuxian&layout=compact" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiangwuxian&layout=compact&theme=onedark" />
 </a>
 
 👋 Hi, I’m @lixiangwuxian.
@@ -21,7 +21,7 @@
 🔒 PGP Public Key (use when necessary):
 
 <a href="https://github.com/anuraghazra/convoychat">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiangwuxian&hide=c,objective-c" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiangwuxian&hide=c,objective-c&theme=onedark" />
 </a>
 
 ```
