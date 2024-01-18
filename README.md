@@ -1,19 +1,28 @@
 ### Hi there 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixiangwuxian&layout=compact" />
+</a>
 
 👋 Hi, I’m @lixiangwuxian.
 
 👀 I’m interested in software and web developement, hardware DIY.
  
-🌱 I’m currently learning Java, Rust, and Go.
+🌱 I’m currently learning Unity, Java and Go.
 
-📖 My Blog: [lixiangwuxian的备忘录](https://www.lxtend.com)
+📖 My Blog: [lxwx的备忘录](https://lxtend.com)
+
 
 📫 How to reach me:
 
   - Email: lixiangwuxian@outlook.com
   - Discord: @Livable4359#9528
 
+
 🔒 PGP Public Key (use when necessary):
+
+<a href="https://github.com/anuraghazra/convoychat">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiangwuxian&hide=c,objective-c" />
+</a>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -30,18 +39,3 @@ XBoRClBwOCdEAP9VnzpKvD1jsP9KnSgp0Y1OGYM7AE8dVhn7Vf39bzhvAA==
 =lMh/
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-<!--
-**lixiangwuxian/lixiangwuxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
