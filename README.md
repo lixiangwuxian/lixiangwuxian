@@ -21,7 +21,7 @@
 🔒 PGP Public Key (use when necessary):
 
 <a href="https://github.com/anuraghazra/convoychat">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiangwuxian&hide=c,objective-c&theme=onedark" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixiangwuxian&hide=c,shaderlab,hlsl,objective-c&theme=onedark" />
 </a>
 
 ```
