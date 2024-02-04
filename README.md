@@ -15,7 +15,6 @@
 📫 How to reach me:
 
   - Email: lixiangwuxian@outlook.com
-  - Discord: @Livable4359#9528
 
 
 🔒 PGP Public Key (use when necessary):
