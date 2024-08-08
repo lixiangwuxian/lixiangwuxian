@@ -15,6 +15,7 @@
 📫 How to reach me:
 
   - Email: lixiangwuxian@outlook.com
+  - Discord: @lxtend
 
 
 🔒 PGP Public Key (use when necessary):
