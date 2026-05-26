@@ -9,7 +9,7 @@
  
 🌱 I’m currently learning Unity, Java and Go.
 
-📖 My Blog: [lxwx的备忘录](https://lxtend.com)
+📖 My Blog: [lxtend.com](https://lxtend.com)
 
 
 📫 How to reach me:
